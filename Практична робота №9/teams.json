@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Dynamo Kyiv",
+        "Points": 25
+    },
+    {
+        "Name": "Shakhtar Donetsk",
+        "Points": 22
+    },
+    {
+        "Name": "Dnipro-1",
+        "Points": 19
+    },
+    {
+        "Name": "Zorya Luhansk",
+        "Points": 15
+    },
+    {
+        "Name": "Polissya Zhytomyr",
+        "Points": 18
+    },
+    {
+        "Name": "Karpaty Lviv",
+        "Points": 12
+    },
+    {
+        "Name": "Vorskla Poltava",
+        "Points": 14
+    },
+    {
+        "Name": "Metalist Kharkiv",
+        "Points": 10
+    },
+    {
+        "Name": "Chornomorets Odesa",
+        "Points": 8
+    },
+    {
+        "Name": "Arsenal Kyiv",
+        "Points": 5
+    }
+]
